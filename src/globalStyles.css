@@ -1,0 +1,26 @@
+/* Components */
+.MainTableHeaderCell-title {
+  text-decoration: underline;
+}
+
+.MainTableHeaderCell-text-field {
+  text-decoration: none;
+}
+
+.title-div {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+.card-entity {
+  border-style: solid;
+  border-radius: 1rem;
+  padding: 1rem;
+  box-shadow: black;
+}
+
+/* DOM */
+body {
+  background-color: #555555;
+}
